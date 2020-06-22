@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55e76f37-b861-4eab-a712-d70fa09265dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dJE4mYCUj6sz0XLFHnIKQ86hxT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tensorflow2.0/deep-sort-yolov4-low-confidence-track-filtering/model_data" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\duy.vonc\Desktop\Face recognition\Yolo 4 github\Deep-SORT-YOLOv4\tensorflow2.0\deep-sort-yolov4" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\duy.vonc\Desktop\Face recognition\Yolo 4 github\Deep-SORT-YOLOv4\tensorflow2.0\deep-sort-yolov4-low-confidence-track-filtering\model_data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.demo_with_skip_frame">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Deep-SORT-YOLOv4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\duy.vonc\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow2.0/deep-sort-yolov4" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow2.0/deep-sort-yolov4/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Deep-SORT-YOLOv4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\duy.vonc\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow2.0/deep-sort-yolov4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow2.0/deep-sort-yolov4-low-confidence-track-filtering/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Deep-SORT-YOLOv4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\duy.vonc\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow2.0/deep-sort-yolov4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow2.0/deep-sort-yolov4/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo_with_skip_frame" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Deep-SORT-YOLOv4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\duy.vonc\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow2.0/deep-sort-yolov4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow2.0/deep-sort-yolov4/demo_with_skip_frame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="opencv_yolov3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Deep-SORT-YOLOv4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\duy.vonc\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow2.0/deep-sort-yolov4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow2.0/deep-sort-yolov4/object-detection-yolo-opencv/opencv_yolov3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yolo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Deep-SORT-YOLOv4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\duy.vonc\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow2.0/deep-sort-yolov4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow2.0/deep-sort-yolov4/object-detection-yolo-opencv/yolo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yolo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Deep-SORT-YOLOv4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\duy.vonc\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow2.0/deep-sort-yolov4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow2.0/deep-sort-yolov4/yolo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.opencv_yolov3" />
+        <item itemvalue="Python.yolo (1)" />
+        <item itemvalue="Python.demo (1)" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.yolo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55e76f37-b861-4eab-a712-d70fa09265dd" name="Default Changelist" comment="" />
+      <created>1592134606517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592134606517</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="218" key="#Inspections" timestamp="1592631161265">
+      <screen x="109" y="0" width="1811" height="1080" />
+    </state>
+    <state x="640" y="218" key="#Inspections/109.0.1811.1080@109.0.1811.1080" timestamp="1592631161265" />
+    <state x="468" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592134726994">
+      <screen x="109" y="0" width="1811" height="1080" />
+    </state>
+    <state x="468" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/109.0.1811.1080@109.0.1811.1080" timestamp="1592134726994" />
+    <state x="767" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592573869474">
+      <screen x="109" y="0" width="1811" height="1080" />
+    </state>
+    <state x="566" y="243" key="#com.intellij.fileTypes.FileTypeChooser/109.0.1257.768@109.0.1257.768" timestamp="1592539984507" />
+    <state x="767" y="342" key="#com.intellij.fileTypes.FileTypeChooser/109.0.1811.1080@109.0.1811.1080" timestamp="1592573869474" />
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1592795125398">
+      <screen x="109" y="0" width="1257" height="768" />
+    </state>
+    <state x="283" y="0" key="CommitChangelistDialog2/109.0.1257.768@109.0.1257.768" timestamp="1592795125398" />
+    <state x="584" y="210" key="FileChooserDialogImpl" timestamp="1592451206888">
+      <screen x="109" y="0" width="1257" height="768" />
+    </state>
+    <state x="584" y="210" key="FileChooserDialogImpl/109.0.1257.768@109.0.1257.768" timestamp="1592451206888" />
+    <state x="794" y="295" key="FileChooserDialogImpl/109.0.1811.1080@109.0.1811.1080" timestamp="1592134725182" />
+    <state width="1767" height="364" key="GridCell.Tab.0.bottom" timestamp="1592653132088">
+      <screen x="109" y="0" width="1811" height="1080" />
+    </state>
+    <state width="1876" height="290" key="GridCell.Tab.0.bottom/109.0.1257.768/-1920.-523.1920.1050@-1920.-523.1920.1050" timestamp="1592390355664" />
+    <state width="1213" height="2" key="GridCell.Tab.0.bottom/109.0.1257.768@109.0.1257.768" timestamp="1592561362762" />
+    <state width="1767" height="364" key="GridCell.Tab.0.bottom/109.0.1811.1080@109.0.1811.1080" timestamp="1592653132088" />
+    <state width="1767" height="364" key="GridCell.Tab.0.center" timestamp="1592653132088">
+      <screen x="109" y="0" width="1811" height="1080" />
+    </state>
+    <state width="1876" height="290" key="GridCell.Tab.0.center/109.0.1257.768/-1920.-523.1920.1050@-1920.-523.1920.1050" timestamp="1592390355664" />
+    <state width="1213" height="2" key="GridCell.Tab.0.center/109.0.1257.768@109.0.1257.768" timestamp="1592561362762" />
+    <state width="1767" height="364" key="GridCell.Tab.0.center/109.0.1811.1080@109.0.1811.1080" timestamp="1592653132088" />
+    <state width="1767" height="364" key="GridCell.Tab.0.left" timestamp="1592653132088">
+      <screen x="109" y="0" width="1811" height="1080" />
+    </state>
+    <state width="1876" height="290" key="GridCell.Tab.0.left/109.0.1257.768/-1920.-523.1920.1050@-1920.-523.1920.1050" timestamp="1592390355664" />
+    <state width="1213" height="2" key="GridCell.Tab.0.left/109.0.1257.768@109.0.1257.768" timestamp="1592561362762" />
+    <state width="1767" height="364" key="GridCell.Tab.0.left/109.0.1811.1080@109.0.1811.1080" timestamp="1592653132088" />
+    <state width="1767" height="364" key="GridCell.Tab.0.right" timestamp="1592653132088">
+      <screen x="109" y="0" width="1811" height="1080" />
+    </state>
+    <state width="1876" height="290" key="GridCell.Tab.0.right/109.0.1257.768/-1920.-523.1920.1050@-1920.-523.1920.1050" timestamp="1592390355664" />
+    <state width="1213" height="2" key="GridCell.Tab.0.right/109.0.1257.768@109.0.1257.768" timestamp="1592561362762" />
+    <state width="1767" height="364" key="GridCell.Tab.0.right/109.0.1811.1080@109.0.1811.1080" timestamp="1592653132088" />
+    <state width="1767" height="364" key="GridCell.Tab.1.bottom" timestamp="1592653132104">
+      <screen x="109" y="0" width="1811" height="1080" />
+    </state>
+    <state width="1767" height="364" key="GridCell.Tab.1.bottom/109.0.1811.1080@109.0.1811.1080" timestamp="1592653132104" />
+    <state width="1767" height="364" key="GridCell.Tab.1.center" timestamp="1592653132104">
+      <screen x="109" y="0" width="1811" height="1080" />
+    </state>
+    <state width="1767" height="364" key="GridCell.Tab.1.center/109.0.1811.1080@109.0.1811.1080" timestamp="1592653132104" />
+    <state width="1767" height="364" key="GridCell.Tab.1.left" timestamp="1592653132088">
+      <screen x="109" y="0" width="1811" height="1080" />
+    </state>
+    <state width="1767" height="364" key="GridCell.Tab.1.left/109.0.1811.1080@109.0.1811.1080" timestamp="1592653132088" />
+    <state width="1767" height="364" key="GridCell.Tab.1.right" timestamp="1592653132104">
+      <screen x="109" y="0" width="1811" height="1080" />
+    </state>
+    <state width="1767" height="364" key="GridCell.Tab.1.right/109.0.1811.1080@109.0.1811.1080" timestamp="1592653132104" />
+    <state x="238" y="29" key="SettingsEditor" timestamp="1592454915340">
+      <screen x="109" y="0" width="1257" height="768" />
+    </state>
+    <state x="238" y="29" key="SettingsEditor/109.0.1257.768@109.0.1257.768" timestamp="1592454915340" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1592461938390">
+      <screen x="109" y="0" width="1257" height="768" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/109.0.1257.768@109.0.1257.768" timestamp="1592461938390" />
+  </component>
+</project>
