@@ -144,7 +144,12 @@ cython_debug/
 /tensorflow2.0/deep-sort-yolov4/demo1.mp4
 /tensorflow2.0/deep-sort-yolov4/demo2.mp4
 /tensorflow2.0/deep-sort-yolov4/output_yolov4.mp4
-/tensorflow2.0/deep-sort-yolov4/object-detection-yolo-opencv/
+
 /tensorflow2.0/deep-sort-yolov4/model_data/yolo4.h5
 /tensorflow2.0/deep-sort-yolov4/model_data/yolov4.weights
 
+/tensorflow2.0/deep-sort-yolov4/object-detection-yolo-opencv/mobilenet_ssd/
+/tensorflow2.0/deep-sort-yolov4/object-detection-yolo-opencv/model_data/yolo4.h5
+/tensorflow2.0/deep-sort-yolov4/object-detection-yolo-opencv/model_data/yolov4.weights
+/tensorflow2.0/deep-sort-yolov4/object-detection-yolo-opencv/yolov3.weights
+/tensorflow2.0/deep-sort-yolov4/object-detection-yolo-opencv/yolov3-tiny.weights

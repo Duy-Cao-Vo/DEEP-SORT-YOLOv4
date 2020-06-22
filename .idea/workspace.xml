@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55e76f37-b861-4eab-a712-d70fa09265dd" name="Default Changelist" comment="" />
+    <list default="true" id="55e76f37-b861-4eab-a712-d70fa09265dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +43,7 @@
       <recent name="C:\Users\duy.vonc\Desktop\Face recognition\Yolo 4 github\Deep-SORT-YOLOv4\tensorflow2.0\deep-sort-yolov4-low-confidence-track-filtering\model_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.demo_with_skip_frame">
+  <component name="RunManager" selected="Python.opencv_yolov3">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Deep-SORT-YOLOv4" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,29 +237,29 @@
     </state>
     <state x="584" y="210" key="FileChooserDialogImpl/109.0.1257.768@109.0.1257.768" timestamp="1592451206888" />
     <state x="794" y="295" key="FileChooserDialogImpl/109.0.1811.1080@109.0.1811.1080" timestamp="1592134725182" />
-    <state width="1767" height="364" key="GridCell.Tab.0.bottom" timestamp="1592653132088">
-      <screen x="109" y="0" width="1811" height="1080" />
+    <state width="1213" height="325" key="GridCell.Tab.0.bottom" timestamp="1592812934430">
+      <screen x="109" y="0" width="1257" height="768" />
     </state>
     <state width="1876" height="290" key="GridCell.Tab.0.bottom/109.0.1257.768/-1920.-523.1920.1050@-1920.-523.1920.1050" timestamp="1592390355664" />
-    <state width="1213" height="2" key="GridCell.Tab.0.bottom/109.0.1257.768@109.0.1257.768" timestamp="1592561362762" />
+    <state width="1213" height="325" key="GridCell.Tab.0.bottom/109.0.1257.768@109.0.1257.768" timestamp="1592812934430" />
     <state width="1767" height="364" key="GridCell.Tab.0.bottom/109.0.1811.1080@109.0.1811.1080" timestamp="1592653132088" />
-    <state width="1767" height="364" key="GridCell.Tab.0.center" timestamp="1592653132088">
-      <screen x="109" y="0" width="1811" height="1080" />
+    <state width="1213" height="325" key="GridCell.Tab.0.center" timestamp="1592812934430">
+      <screen x="109" y="0" width="1257" height="768" />
     </state>
     <state width="1876" height="290" key="GridCell.Tab.0.center/109.0.1257.768/-1920.-523.1920.1050@-1920.-523.1920.1050" timestamp="1592390355664" />
-    <state width="1213" height="2" key="GridCell.Tab.0.center/109.0.1257.768@109.0.1257.768" timestamp="1592561362762" />
+    <state width="1213" height="325" key="GridCell.Tab.0.center/109.0.1257.768@109.0.1257.768" timestamp="1592812934430" />
     <state width="1767" height="364" key="GridCell.Tab.0.center/109.0.1811.1080@109.0.1811.1080" timestamp="1592653132088" />
-    <state width="1767" height="364" key="GridCell.Tab.0.left" timestamp="1592653132088">
-      <screen x="109" y="0" width="1811" height="1080" />
+    <state width="1213" height="325" key="GridCell.Tab.0.left" timestamp="1592812934430">
+      <screen x="109" y="0" width="1257" height="768" />
     </state>
     <state width="1876" height="290" key="GridCell.Tab.0.left/109.0.1257.768/-1920.-523.1920.1050@-1920.-523.1920.1050" timestamp="1592390355664" />
-    <state width="1213" height="2" key="GridCell.Tab.0.left/109.0.1257.768@109.0.1257.768" timestamp="1592561362762" />
+    <state width="1213" height="325" key="GridCell.Tab.0.left/109.0.1257.768@109.0.1257.768" timestamp="1592812934430" />
     <state width="1767" height="364" key="GridCell.Tab.0.left/109.0.1811.1080@109.0.1811.1080" timestamp="1592653132088" />
-    <state width="1767" height="364" key="GridCell.Tab.0.right" timestamp="1592653132088">
-      <screen x="109" y="0" width="1811" height="1080" />
+    <state width="1213" height="325" key="GridCell.Tab.0.right" timestamp="1592812934430">
+      <screen x="109" y="0" width="1257" height="768" />
     </state>
     <state width="1876" height="290" key="GridCell.Tab.0.right/109.0.1257.768/-1920.-523.1920.1050@-1920.-523.1920.1050" timestamp="1592390355664" />
-    <state width="1213" height="2" key="GridCell.Tab.0.right/109.0.1257.768@109.0.1257.768" timestamp="1592561362762" />
+    <state width="1213" height="325" key="GridCell.Tab.0.right/109.0.1257.768@109.0.1257.768" timestamp="1592812934430" />
     <state width="1767" height="364" key="GridCell.Tab.0.right/109.0.1811.1080@109.0.1811.1080" timestamp="1592653132088" />
     <state width="1767" height="364" key="GridCell.Tab.1.bottom" timestamp="1592653132104">
       <screen x="109" y="0" width="1811" height="1080" />
